@@ -6,7 +6,7 @@
  @模块备注:
 """
 """
-python2需要使用raw_input函数，python3支持input函数
+python2字符串需要使用raw_input函数，input函数只支持数字，python3支持input函数
 """
 age=input("根据您的姓名，可以获取确认您的相关投票权限。"+"\n请输入您的年龄:")
 if age<=18:
