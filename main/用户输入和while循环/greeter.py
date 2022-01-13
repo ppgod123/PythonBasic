@@ -10,5 +10,5 @@ python2需要使用raw_input函数，python3支持input函数
 """
 prompt="根据您的姓名，可以获取确认您的相关权限。"
 prompt+="\n请输入您的姓名:"
-name=raw_input(prompt)
+name=input(prompt)
 print("Hello,"+name+"!")
