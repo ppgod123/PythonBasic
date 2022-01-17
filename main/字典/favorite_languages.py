@@ -5,6 +5,7 @@
  @功能模块:
  @模块备注:字典中存储列表
 """
+
 favorite_languages={
     'jen':['python','ruby'],
     'sarah':['c'],
