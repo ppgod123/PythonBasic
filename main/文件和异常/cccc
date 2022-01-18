@@ -1,0 +1,6 @@
+1.python 同一目录下B 文件引用A文件的函数失败问题解决：
+选择目标python函数文件所在文件夹，右击--->选择“Mark Directory AS”--->选择"Sources Root"
+链接：https://www.cnblogs.com/isyolo/p/12442890.html
+2.Python中if __name__ == ‘__main__‘：的作用和原理:
+链接：https://blog.csdn.net/heqiang525/article/details/89879056
+3.
