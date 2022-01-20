@@ -9,3 +9,4 @@ import remember_me
 
 remember_me.greet_user()
 print(remember_me.get_stored_username())
+print (remember_me.get_new_username())
