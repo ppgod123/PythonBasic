@@ -6,4 +6,4 @@
 3.python json dump输出中文_Python读写文件（json.dump()）中文被转成Unicode问题：
   链接：https://blog.csdn.net/weixin_42304604/article/details/111907597
 4.python2.7解决读取文件编码冲突：https://www.cnblogs.com/meina/p/13084880.html
-5.
+5.ssl与tsl的区别：https://baijiahao.baidu.com/s?id=1674062504331967077&wfr=spider&for=pc
